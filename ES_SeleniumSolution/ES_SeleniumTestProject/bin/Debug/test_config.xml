@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <Browser>chrome</Browser> <!--Use chrome, ie, firefox -->
+  <DriverWaitTimeMilliSec>10000</DriverWaitTimeMilliSec>
+  <SourceURL>http://www.youtube.com/</SourceURL>
+  <UserEMail>your_mail@gmail.com</UserEMail>
+  <UserPassword>your_password</UserPassword>
+  <UploadFilePath>Videos\Masha and The Bear1.mp4</UploadFilePath>
+</Settings>  

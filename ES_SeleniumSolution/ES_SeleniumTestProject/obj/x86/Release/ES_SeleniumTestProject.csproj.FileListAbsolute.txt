@@ -1,0 +1,12 @@
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\ES_SeleniumTestProject.dll
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\ES_SeleniumTestProject.pdb
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\nunit.framework.dll
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\WebDriver.dll
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\WebDriver.Support.dll
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\nunit.framework.xml
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\WebDriver.xml
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\WebDriver.Support.xml
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\x86\Release\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\obj\x86\Release\ES_SeleniumTestProject.dll
+D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\obj\x86\Release\ES_SeleniumTestProject.pdb

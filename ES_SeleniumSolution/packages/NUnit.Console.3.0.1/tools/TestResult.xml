@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Failed" label="Invalid" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0" engine-version="3.0.5813.39036" clr-version="4.0.30319.42000" start-time="2015-12-23 12:33:02Z" end-time="2015-12-23 12:33:14Z" duration="12.524565">
+  <command-line><![CDATA[D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\packages\NUnit.Console.3.0.1\tools\nunit3-console.exe  D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\Debug\ES_SeleniumTestProject.dll ES_SeleniumTestProject.YouTubeTest.TestCase]]></command-line>
+  <test-suite type="Assembly" id="1-1002" name="ES_SeleniumTestProject.dll" fullname="D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\bin\Debug\ES_SeleniumTestProject.dll" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2015-12-23 12:33:02Z" end-time="2015-12-23 12:33:14Z" duration="12.419980" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.0.5813.39031" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\packages\NUnit.Console.3.0.1\tools" machine-name="LENASUS" user="а" user-domain="LENASUS" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\packages\NUnit.Console.3.0.1\tools" />
+      <setting name="RuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="3700" />
+      <property name="_APPDOMAIN" value="test-domain-ES_SeleniumTestProject.dll" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1-1003" name="ES_SeleniumTestProject" fullname="ES_SeleniumTestProject" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2015-12-23 12:33:02Z" end-time="2015-12-23 12:33:14Z" duration="12.409132" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1-1000" name="YouTubeTest" fullname="ES_SeleniumTestProject.YouTubeTest" classname="ES_SeleniumTestProject.YouTubeTest" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2015-12-23 12:33:02Z" end-time="2015-12-23 12:33:14Z" duration="12.406505" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1-1001" name="TestCase" fullname="ES_SeleniumTestProject.YouTubeTest.TestCase" methodname="TestCase" classname="ES_SeleniumTestProject.YouTubeTest" runstate="Runnable" seed="798259755" result="Failed" label="Error" start-time="2015-12-23 12:33:02Z" end-time="2015-12-23 12:33:14Z" duration="12.396077" asserts="0">
+          <failure>
+            <message><![CDATA[OpenQA.Selenium.NoSuchElementException : Unable to locate element: {"method":"id","selector":"Email"}]]></message>
+            <stack-trace><![CDATA[   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   в ES_SeleniumTestProject.YouTubeTest.TestCase() в D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\ES_SeleniumTestProject\YouTubeTest1.cs:строка 20]]></stack-trace>
+          </failure>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+  <test-suite type="Assembly" id="2-1" name="ES_SeleniumTestProject.YouTubeTest.TestCase" fullname="D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\packages\NUnit.Console.3.0.1\tools\ES_SeleniumTestProject.YouTubeTest.TestCase" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File not found: D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\packages\NUnit.Console.3.0.1\tools\ES_SeleniumTestProject.YouTubeTest.TestCase" />
+    </properties>
+    <reason>
+      <message>File not found: D:\VSSourceControl\MyTestRepo\ES_SeleniumSolution\packages\NUnit.Console.3.0.1\tools\ES_SeleniumTestProject.YouTubeTest.TestCase</message>
+    </reason>
+  </test-suite>
+</test-run>
