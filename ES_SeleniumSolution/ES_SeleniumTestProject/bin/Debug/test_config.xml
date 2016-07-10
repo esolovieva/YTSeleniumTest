@@ -3,7 +3,7 @@
   <Browser>chrome</Browser> <!--Use chrome, ie, firefox -->
   <DriverWaitTimeMilliSec>10000</DriverWaitTimeMilliSec>
   <SourceURL>http://www.youtube.com/</SourceURL>
-  <UserEMail>your_mail@gmail.com</UserEMail>
-  <UserPassword>your_password</UserPassword>
-  <UploadFilePath>Videos\Masha and The Bear1.mp4</UploadFilePath>
+  <UserEMail>my_email@gmail.com</UserEMail>
+  <UserPassword>password</UserPassword>
+  <UploadFilePath>D:\GitHubSource\YTSeleniumTest\ES_SeleniumSolution\Videos\bears.mp4</UploadFilePath>
 </Settings>  
